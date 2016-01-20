@@ -1,0 +1,6 @@
+c:\users\antonio\documents\visual studio 2013\Projects\DelegadosPrincipios\DelegadosPrincipios\bin\Debug\DelegadosPrincipios.exe.config
+c:\users\antonio\documents\visual studio 2013\Projects\DelegadosPrincipios\DelegadosPrincipios\bin\Debug\DelegadosPrincipios.exe
+c:\users\antonio\documents\visual studio 2013\Projects\DelegadosPrincipios\DelegadosPrincipios\bin\Debug\DelegadosPrincipios.pdb
+c:\users\antonio\documents\visual studio 2013\Projects\DelegadosPrincipios\DelegadosPrincipios\obj\Debug\DelegadosPrincipios.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2013\Projects\DelegadosPrincipios\DelegadosPrincipios\obj\Debug\DelegadosPrincipios.exe
+c:\users\antonio\documents\visual studio 2013\Projects\DelegadosPrincipios\DelegadosPrincipios\obj\Debug\DelegadosPrincipios.pdb
